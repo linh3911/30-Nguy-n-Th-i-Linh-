@@ -1,0 +1,1 @@
+Câu 1:[200~Vòng đời phát triển phần mềm gồm 5 giai đoạn chính: Phân tích yêu cầu → Thiết kế → Lập trình → Kiểm thử → Triển khai & Bảo trì, mỗi giai đoạn đều có mục tiêu rõ ràng và sản phẩm đầu ra cụ thể giúp đảm bảo phần mềm được phát triển có hệ thống và chất lượng.~
